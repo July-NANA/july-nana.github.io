@@ -30,5 +30,5 @@ Then open `http://127.0.0.1:8000`.
 
 For this repository, the expected project-site URL is:
 
-`https://july-nana.github.io/nexus.github.io/`
+`https://july-nana.github.io/`
 
